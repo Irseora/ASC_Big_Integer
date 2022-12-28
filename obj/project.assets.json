@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Big_Integer\\ASC_Big_Integer.csproj",
+      "projectUniqueName": "C:\\Users\\Vivi\\Documents\\ASC_Big_Integer\\ASC_Big_Integer.csproj",
       "projectName": "ASC_Big_Integer",
-      "projectPath": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Big_Integer\\ASC_Big_Integer.csproj",
+      "projectPath": "C:\\Users\\Vivi\\Documents\\ASC_Big_Integer\\ASC_Big_Integer.csproj",
       "packagesPath": "C:\\Users\\Vivi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vivi\\Documents\\C#\\ASC_Big_Integer\\obj\\",
+      "outputPath": "C:\\Users\\Vivi\\Documents\\ASC_Big_Integer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vivi\\AppData\\Roaming\\NuGet\\NuGet.Config"

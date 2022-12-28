@@ -99,9 +99,7 @@ namespace BigInteger
 
             if (b2 > b1)
             {
-                BigInt aux = b1;
-                b1 = b2;
-                b2 = aux;
+                throw new Exception("Primul numar trebuie sa fie mai mare decat cel de al doilea.");
             }
 
             for (int i = 0; i < b1.asByteList.Count; i++)
@@ -342,6 +340,11 @@ namespace BigInteger
                 return rest;
             else
                 return new BigInt("0");
+        }
+    
+        public static void Write(BigInt b)
+        {
+            Console.Write(b.asString);
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ASC_Big_Integer/1.0.0": {
+        "runtime": {
+          "ASC_Big_Integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASC_Big_Integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

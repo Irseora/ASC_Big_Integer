@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using BigInteger;
 
 // Implementati operatii cu numere naturale mari.
@@ -17,7 +13,27 @@ namespace ASC_Big_Integer
     {
         static void Main(string[] args)
         {
-            
+            try
+            {
+                BigInt b1 = new BigInt("123451234512345");
+                BigInt b2 = new BigInt("1000000000000000000000");
+
+                Console.WriteLine($"b1 + b2 = {b1 + b2}");
+
+                // Console.WriteLine($"b1 - b2 = {b1 - b2}");
+                Console.WriteLine($"b2 - b1 = {b2 - b1}");
+
+                Console.WriteLine($"b1 * b2 = {b1 * b2}");
+
+                Console.WriteLine($"b1 / b2 = {b1 / b2}");
+                Console.WriteLine($"b1 % b2 = {b1 % b2}");
+
+                Console.WriteLine($"b1 ^ 14 = {BigInt.Pow(b1, 14)}");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }

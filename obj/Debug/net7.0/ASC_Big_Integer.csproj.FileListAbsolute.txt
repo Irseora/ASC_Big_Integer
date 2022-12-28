@@ -1,0 +1,15 @@
+C:\Users\Vivi\Documents\ASC_Big_Integer\bin\Debug\net7.0\ASC_Big_Integer.exe
+C:\Users\Vivi\Documents\ASC_Big_Integer\bin\Debug\net7.0\ASC_Big_Integer.deps.json
+C:\Users\Vivi\Documents\ASC_Big_Integer\bin\Debug\net7.0\ASC_Big_Integer.runtimeconfig.json
+C:\Users\Vivi\Documents\ASC_Big_Integer\bin\Debug\net7.0\ASC_Big_Integer.dll
+C:\Users\Vivi\Documents\ASC_Big_Integer\bin\Debug\net7.0\ASC_Big_Integer.pdb
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.csproj.AssemblyReference.cache
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.AssemblyInfoInputs.cache
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.AssemblyInfo.cs
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.dll
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\refint\ASC_Big_Integer.dll
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.pdb
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ASC_Big_Integer.genruntimeconfig.cache
+C:\Users\Vivi\Documents\ASC_Big_Integer\obj\Debug\net7.0\ref\ASC_Big_Integer.dll
